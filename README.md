@@ -7,5 +7,5 @@
 This simple version of the classic game was made using Turtle graphics from the Tkinter package. The turtle draws a 4x4 board on a pop-up window, and fills it with X's and O's as the two players enter their pieces. Enter 1, 2, 3, or 4 to drop your piece into the corresponding column, and try to get four pieces in a row before your opponent!
 
 #### Future updates:
-- Increase size of board in order to increase difficulty and prevent draws
+- Enlarge board size in order to increase difficulty and prevent draws
 - Add an option to play against the CPU
