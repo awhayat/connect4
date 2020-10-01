@@ -1,6 +1,6 @@
 # Connect 4
 
-#### Usage: download connect4.py and open in a Python interpreter
+#### Usage: download Connect4.py and open in a Python interpreter
 
 ![screenshot](https://github.com/awhayat/connect4/blob/master/screenshot.PNG)
 
