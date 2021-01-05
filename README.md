@@ -4,6 +4,6 @@ This simple version of the classic game was made using Turtle graphics from the 
 
 #### Set up:
 - download Connect4.py
-- open and run in a Python interpreter
+- open and run with a Python interpreter
 
 ![screenshot](https://github.com/awhayat/connect4/blob/master/screenshot.PNG)
